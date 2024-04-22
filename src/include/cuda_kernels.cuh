@@ -1,0 +1,4 @@
+#ifndef CUDA_KERNELS_CUH
+#define CUDA_KERNELS_CUH
+
+#endif // CUDA_KERNELS_CUH
